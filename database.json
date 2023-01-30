@@ -1,107 +1,257 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "fullName": "Shane Hurtado",
-        "email": "mhurtado1@berklee.edu",
-        "phoneNumber":"(507) 720-1157",
-        "admin": true
-      },
-      {
-        "id": 2,
-        "fullName": "Guthrie Trapp",
-        "email": "gtrapp@gmail.com",
-        "phoneNumber":"(321) 520-1457",
-        "admin": false
-      },
-      {
-        "id": 3,
-        "fullName": "Brent Mason",
-        "email": "bmason@gmail.com",
-        "phoneNumber":"(456) 320-2357",
-        "admin": false
-      },
-      {
-        "id": 4,
-        "fullName": "Guthrie Govan",
-        "email": "ggovan@gmail.com",
-        "phoneNumber":"(561) 890-1157",
-        "admin": false
-      },
-      {
-        "id": 5,
-        "fullName": "Jonathan Kreisberg",
-        "email": "Jkreisberg@gmail.com",
-        "phoneNumber":"(907)891-4567",
-        "admin": false
-      }
-    ],
-    "types": [
-      {
-        "id": 1,
-        "type": "Guitar"
-      },
-      {
-        "id": 2,
-        "type": "Pedal"
-      },
-      {
-        "id": 3,
-        "type": "Amp"
-      },
-      {
-        "id": 3,
-        "type": "Accessories"
-      }
-    ],
-    "gear": [
-      {
-        "id": 1,
-        "name": "ES-175D",
-        "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcToxReJzlBPlS38S0z4f7aiKbjJoXcnt0qB-SvGFtCNABrpahtYGoCZhANVOEa1PsZDDtIMBwlcbm-pqHEW4yu-DJdyadknAlvSkr59X97i2olhwsyti2F0Lw",
-        "brand": "Gibson",
-        "description": "The 175 was designed as a hollowbody electric archtop featuring a single florentine cutaway. The fretboard inlays were double parallelograms and the headstock featured inlays of the Gibson logo and crown. The body was 3.375 in (8.57 cm) and it was 16.25 in (41.3 cm) at the lower bout.",
-        "artistUsingGear": "Jonathan Kreisberg",
-        "typeId": 1,
-        "price": "4,500.00"
-      },
-      {
-        "id": 2,
-        "name": "Guthrie Trapp Overdrive Pedal",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSylyYNRsy03d6aV3UOT8cntMRu4qaey88JBA&usqp=CAU",
-        "brand": "J Rockett",
-        "description": " The new GTO is the latest design coop with Guthrie Trapp. The original was sort of the Nashville favorite, recreating the old Nobels ODR-1. A great sound in itself but Guthrie wanted more.",
-        "artistUsingGear": "Guthrie Trapp",
-        "typeId": 2,
-        "price": "199.00" 
-      },
-      {
-        "id": 3,
-        "name": " Guthrie Govan Signature",
-        "imageUrl": "data:image/jpeg;base64,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",
-        "brand": "Charvel",
-        "description": "Solidbody Electric Guitar with Basswood Body, Ash Top, Maple Neck, Maple Fingerboard, 2 Humbucking Pickups, 1 Single-coil Pickup, and Locking Tremolo - 3-tone Sunburst",
-        "artistUsingGear": "Guthrie Govan",
-        "typeId": 1,
-        "price": "2,799.99"
-      },
-      {
-        "id": 4,
-        "name": "Brent Mason Telecaster",
-        "imageUrl": "data:image/jpeg;base64,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",
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Shane Hurtado",
+      "email": "mhurtado1@berklee.edu",
+      "phoneNumber": "(507) 720-1157",
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "fullName": "Guthrie Trapp",
+      "email": "gtrapp@gmail.com",
+      "phoneNumber": "(321) 520-1457",
+      "isAdmin": false
+    },
+    {
+      "id": 3,
+      "fullName": "Brent Mason",
+      "email": "bmason@gmail.com",
+      "phoneNumber": "(456) 320-2357",
+      "isAdmin": false
+    },
+    {
+      "id": 4,
+      "fullName": "Guthrie Govan",
+      "email": "ggovan@gmail.com",
+      "phoneNumber": "(561) 890-1157",
+      "isAdmin": false
+    },
+    {
+      "id": 5,
+      "fullName": "Jonathan Kreisberg",
+      "email": "Jkreisberg@gmail.com",
+      "phoneNumber": "(907)891-4567",
+      "isAdmin": false
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "type": "Guitar"
+    },
+    {
+      "id": 2,
+      "type": "Pedal"
+    },
+    {
+      "id": 3,
+      "type": "Amp"
+    },
+    {
+      "id": 4,
+      "type": "Accessories"
+    }
+  ],
+  "gears": [
+    {
+      "id": 1,
+      "name": "ES-175D",
+      "imageUrl": "https://cartervintage.com/sized-images/2BA6HRjgtWtExGwfsgBD6nYtxhV/2HPcCVp9oFHrR9PjGYoU052G20O/product.jpeg",
+      "brand": "Gibson",
+      "description": "The 175 was designed as a hollowbody electric archtop featuring a single florentine cutaway. The fretboard inlays were double parallelograms and the headstock featured inlays of the Gibson logo and crown. The body was 3.375 in (8.57 cm) and it was 16.25 in (41.3 cm) at the lower bout.",
+      "artistUsingGear": "Jonathan Kreisberg",
+      "typeId": 1,
+      "price": "4,500.00"
+    },
+    {
+      "id": 2,
+      "name": "Guthrie Trapp Overdrive Pedal",
+      "imageUrl": "http://cdn.shopify.com/s/files/1/0987/8460/products/641d3428e1e8189490141fc3d1a97e9e.jpg?v=1538176340",
+      "brand": "J Rockett",
+      "description": " The new GTO is the latest design coop with Guthrie Trapp. The original was sort of the Nashville favorite, recreating the old Nobels ODR-1. A great sound in itself but Guthrie wanted more.",
+      "artistUsingGear": "Guthrie Trapp",
+      "typeId": 2,
+      "price": "199.00"
+    },
+    {
+      "id": 3,
+      "name": " Guthrie Govan Signature",
+      "imageUrl": "data:image/jpeg;base64,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",
+      "brand": "Charvel",
+      "description": "Solidbody Electric Guitar with Basswood Body, Ash Top, Maple Neck, Maple Fingerboard, 2 Humbucking Pickups, 1 Single-coil Pickup, and Locking Tremolo - 3-tone Sunburst",
+      "artistUsingGear": "Guthrie Govan",
+      "typeId": 1,
+      "price": "2,799.99"
+    },
+    {
+      "id": 4,
+      "name": "Brent Mason Telecaster",
+      "imageUrl": "https://media.guitarcenter.com/is/image/MMGS7/L76581000001000-00-1600x1600.jpg",
+      "brand": "Fender",
+      "description": "Solidbody Electric Guitar with Ash Body, Maple Neck, Maple Fingerboard, 1 Humbucker, 2 Single-coil-sized Humbucking Pickups, and Glaser Bender System - Primer Gray",
+      "artistUsingGear": "Brent Mason",
+      "typeId": 1,
+      "price": "2,999.99"
+    },
+    {
+      "id": 5,
+      "name": "0DR 1 Natural Overdrive",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0147/9412/9472/products/DSC_9864_1500x.jpg?v=1645739504",
+      "brand": "Nobels",
+      "description": "I am really happy that our re-issue Overdrive is available fore some years again. We have worked very hard to give you, the musician exactly what you wanted – the Original ODR-1 that has developed its own almost cult following since we originally designed and engineered it way back in 1985. In those days there seemed to be countless overdrives on the market that had what we describe as the ‘nasal’ tone but we worked hard on creating a very ‘open’ sounding pedal that worked with you and your amplifier. The result was the ODR-1, the pedal that responds to your dynamics and adds texture to your tone in a very natural, musical way",
+      "artistUsingGear": "Tim Pierce",
+      "typeId": 2,
+      "price": "119.00"
+    },
+    {
+      "id": 6,
+      "name": "Timeline Delay Pedal",
+      "imageUrl": "https://i.ebayimg.com/images/g/HSsAAOSwNDFfr9vr/s-l1600.jpg",
+      "brand": "Strymon",
+      "description": "When we decided to create a studio-class stereo delay effects pedal, we knew we must go well beyond what has been done in the past—in sound quality, sonic flexibility, hardware design, and processing power. We spent months locked up in the Strymon sound design labs dreaming up the most spacious, lush, creative, and tweakable delay effects ever heard. It was a monumental task—a relentless study of delays and their nuances, and a continuous pursuit of innovative and musically inspirational sounds. Utilizing a ridiculously powerful SHARC DSP, every drop of processing power is harnessed.",
+      "artistUsingGear": "Tim Pierce",
+      "typeId": 2,
+      "price": "449.00"
+    },
+    {
+      "id": 7,
+      "name": "Big Sky Pedal",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0899/5804/products/IMG_9905LEAD_2048x.jpg?v=1630960351",
+      "brand": "Strymon",
+      "description": "Plug into BigSky and instantly lift your sound into the stratosphere. The world below you fades into the distance, and you’re elevated into a glow of lush, glorious, radiant reverbs.",
+      "artistUsingGear": "John Oats",
+      "typeId": 2,
+      "price": "479.00"
+    },
+    {
+      "id": 8,
+      "name": "Morbius",
+      "imageUrl": "https://m.media-amazon.com/images/I/61o7PMciWPL.jpg",
+      "brand": "Strymon",
+      "description": "Some might say we’re driven. When our engineers lock themselves in our sound design labs for months on end, you might say we’re obsessed. We have been dedicating ourselves to forging a collection of the most organic, luscious, expressive, and versatile modulation effects ever heard.",
+      "artistUsingGear": "Pete Thorn",
+      "typeId": 2,
+      "price": "449.00"
+    },
+    {
+      "id": 9,
+      "name": "Overdrive Special",
+      "imageUrl": "https://images.reverb.com/image/upload/s--xsxlwTX1--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_1600,q_80,w_1600/v1410800334/qsvktsnxlgarycg23bnl.jpg",
+      "brand": "Dumble",
+      "description": "Some might say we’re driven. When our engineers lock themselves in our sound design labs for months on end, you might say we’re obsessed. We have been dedicating ourselves to forging a collection of the most organic, luscious, expressive, and versatile modulation effects ever heard.",
+      "artistUsingGear": "Robben Ford",
+      "typeId": 3,
+      "price": "50,000.00"
+    },
+    {
+      "id": 10,
+      "name": "Kemper Profiler",
+      "imageUrl": "https://images.reverb.com/image/upload/s--dBRWow40--/f_auto,t_supersize/v1529569985/r5chiycywhj62msxixyd.jpg",
+      "brand": "Kemper",
+      "description": "For decades, the electric guitarist has been shackled to the tube amplifier as the only means of achieving that sound. This magical combination is by no means ideal - the challenge to achieve a consistent sound from the practice room to the studio, and especially to the stage, continues to frustrate guitarists, just as it has since the early 1940s.",
+      "artistUsingGear": "Mark Letteri",
+      "typeId": 3,
+      "price": "1,899.00"
+    },
+    {
+      "id": 11,
+      "name": "FM3",
+      "imageUrl": "https://cdn11.bigcommerce.com/s-2uuy8vmh8z/images/stencil/1280x1280/products/443/888/FM3-1290__68570.1630179959.jpg?c=2",
+      "brand": "Fractal Audio",
+      "description": "The FM3 is a compact all-in-one processor for guitar, bass, and other instruments. It features Fractal Audio's industry-leading Cygnus amp modeling, UltraRes™ speaker cab simulation, plus an incredible collection of legendary stompbox and studio effects, all based on our award-winning flagship the Axe-Fx III.",
+      "artistUsingGear": "Jason Richardson",
+      "typeId": 3,
+      "price": "1,299.00"
+    },
+    {
+      "id": 12,
+      "name": "Keeley Custom",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwZxmG1HhhoVwl0KwV0x0_hbt3X4N6O1EPEzqdS24KDRcIrQv1Ac_ghmI1zrP7uZiN6c&usqp=CAU",
+      "brand": "Supro",
+      "description": "Designed in collaboration with Robert Keeley of Keeley Electronics as a follow-up to the bestselling Custom 10, the Keeley Custom 12 is built to seamlessly integrate your pedals into the heart of an all-tube Supro amplifier. The preamp and 2-band EQ section are voiced perfectly for running your gain pedals in front of the amp, while still maintaining Supro’s signature midrange heft and phenomenal touch dynamics. And a transparent effects loop provides the ideal point to inject your delay and reverb effects into the amplifier’s all-tube signal path, avoiding unwanted distortion on modulation effects. The Keeley Custom 12 features the legendary Celestion G12M-65 Creamback speaker, developed in the mid 1960s and beloved by the biggest guitar players in history. It produces vintage, woody tone while still offering major power, perfect for modern amps. Low-end heft complements warm and vocal mid-range, with crunchy upper-mids and sweet, articulate highs. A master volume circuit allows you to control the sound pressure level coming from the speaker, while pouring on copious amounts of gain from the ECC83S-based tube preamp or your favorite dirt pedals.",
+      "artistUsingGear": "Robert Keeley",
+      "typeId": 3,
+      "price": "1,119.00"
+    },
+    {
+      "id": 13,
+      "name": "Mateus Asato Signature",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0202/0250/products/MateusAsat-Classic-Antique-ShellPink-73134-frontclose.jpg?v=1672350497",
+      "brand": "Suhr",
+      "description": "The Mateus Asato Signature Series in Antiqued Shell Pink features Suhr's Even C Medium neck profile, which is carved from silky-smooth satin finished Roasted Maple. The Indian Rosewood fingerboard features their 9-12 compound radius and is appointed with 22 stainless steel heavy frets. A Gotoh 510 tremolo, ML single-coils, and Custom Alnico humbucker complete the specs. Each guitar comes with a special laser-engraved neck plate, light relic finish, Mateus’ signature on the back of the headstock, and is delivered in a classy black tolex hardshell case.",
+      "artistUsingGear": "Mateus Asato",
+      "typeId": 1,
+      "price": "3,849.00"
+    },
+    {
+      "id": 14,
+      "name": "Mateus Asato Signature",
+      "imageUrl": "https://media.suhr.com/wp-content/uploads/2020/07/13163314/JS2M0H_010.jpg",
+      "brand": "Suhr",
+      "description": "Suhr Mateus Asato Signature Series Classic T, Black, SS, SSCII Mateus Asato has grown up before our very eyes to become one of the predominant guitar voices of this generation. His musicality, his tone, and his limitless technique coalesce into one of the most versatile and well-rounded musicians we have heard play the instrument. Now, Mateus and Suhr have put their heads together to create his next signature guitar, the Suhr Mateus Asato Signature Classic T.",
+      "artistUsingGear": "Mateus Asato",
+      "typeId": 1,
+      "price": "4,249.00"
+    },
+    {
+      "id": 15,
+      "name": "Tim Henson Signature",
+      "imageUrl": "https://media.guitarcenter.com/is/image/MMGS7/L98243000001000-00-2000x2000.jpg",
+      "brand": "Ibanez",
+      "description": "The Ibanez TOD10N Tim Henson Signature nylon acoustic-electric guitar is an ultrasleek instrument with rich, clear classical tone. Its thin, compact body and enhanced access to the upper frets contribute to its excellent playability. The modified FR hollowbody design has no soundhole on the body top, resulting in less feedback. Fan bracing, which is commonly used in classical guitars, allows the TOD10N to produce a warm and natural nylon-string sound. The top is made of solid Sitka spruce, which delivers a broad frequency range from shimmering highs to tight mids and a full-bodied low end. The walnut fingerboard features a well-balanced tonal character, and is topped with a Tree of Death inlay—a nod to the classic Ibanez Tree of Life design, but with a twist.",
+      "artistUsingGear": "Tim Henson",
+      "typeId": 1,
+      "price": "699.00"
+    },
+    {
+      "id": 16,
+      "name": "The Rock Slide ",
+      "imageUrl": "https://sc1.musik-produktiv.com/pic-010094047xl/the-rock-slide-ariel-posen.jpg",
+      "brand": "Ariel Posen",
+      "description": "The Rockslide Ariel Posen is specially designed for the The Bros. Landreth guitarist Ariel Posen. The slide is longer than the standard model and has a ball tip.",
+      "artistUsingGear": "Ariel Posen",
+      "typeId": 4,
+      "price": "23.95"
+    }, 
+    {
+        "id": 17,
+        "name": "Fret Wrap ",
+        "imageUrl": "https://media.guitarcenter.com/is/image/MMGS7/H96898000003001-00-2000x2000.jpg",
+        "brand": "Gruv Gear",
+        "description": "TAttachable dampening wrap or string mute for stringed instruments. Cuts unwanted string noise and ringing. Wraps easily around the neck of your guitar and dampens or mutes the strings — perfect for studio sessions, tapping, and overtone control.",
+        "artistUsingGear": "Billy Campbell",
+        "typeId": 4,
+        "price": "12.99"
+    },
+    {
+        "id": 18,
+        "name": "7 Guitar Stand ",
+        "imageUrl": "https://cdn3.volusion.com/lqpzc.dkrfy/v/vspfiles/photos/3896-2.jpg?v-cache=1645439189",
         "brand": "Fender",
-        "description": "Solidbody Electric Guitar with Ash Body, Maple Neck, Maple Fingerboard, 1 Humbucker, 2 Single-coil-sized Humbucking Pickups, and Glaser Bender System - Primer Gray",
-        "artistUsingGear": "Brent Mason",
-        "typeId": 1,
-        "price": "2,999.99"
-      }
-    ],
-    "wishList": [
+        "description": "Your collection of guitars has grown. And when you are on stage you want access to all of them since each delivers its own unique tone. With the Classic Series Case Stand from Fender, you get to bring all the guitars to the show and bring them in style. This 3-ply hardshell wooden case is built to last and features a classic tweed exterior and crushed-acrylic plush interior lining. While it looks like a traditional guitar case, it opens to reveal a beautiful, stage-ready guitar stand that holds up to 7 guitars! And with a vinyl-wrapped steel carry handle and steel latches, this stand is built to stand up to the rigors of loading in and out night after night. It's also a great stand for storing and displaying your guitars while at home. Its open design lets you grab each axe and play with ease and speed — a feature guitarists here at Sweetwater really appreciate.",
+        "artistUsingGear": "Derek Wells",
+        "typeId": 4,
+        "price": "349.95"
+      },
       {
-        "id": 1,
-        "purchased": false,
-        "userId": 1,
-        "gearId": 2
+        "id": 18,
+        "name": "Musician's Tool Kit",
+        "imageUrl": "https://m.media-amazon.com/images/I/71wBIdwJG-L.jpg",
+        "brand": "Ernie Ball",
+        "description": "Be prepared with the Ernie Ball Musician's Tool Kit! Grab this value-packed accessory kit, and you'll be prepared for almost any guitar or bass maintenance task. You get a microfiber polish cloth and Wonder Wipes to keep your guitar or bass looking like new. You also get a heavy-duty string cutter and peg winder for fast string changes. And the Musician's Tool Kit's 6-in-1 screwdriver, hex wrench set, and ruler make it easy to fine-tune your instrument. Show your guitar you care - call Sweetwater for the Ernie Ball Musician's Tool Kit!",
+        "artistUsingGear": "Ian Kendall",
+        "typeId": 4,
+        "price": "31.99"
       }
-    ]
-  }
+  ],
+  "wishList": [
+    {
+      "id": 1,
+      "purchased": false,
+      "userId": 1,
+      "gearId": 2
+    }
+  ]
+}
