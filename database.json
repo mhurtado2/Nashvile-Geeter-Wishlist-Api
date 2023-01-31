@@ -254,7 +254,7 @@
       "price": "349.95"
     },
     {
-      "id": 18,
+      "id": 19,
       "name": "Musician's Tool Kit",
       "imageUrl": "https://m.media-amazon.com/images/I/71wBIdwJG-L.jpg",
       "brand": "Ernie Ball",
@@ -274,7 +274,7 @@
       "demonstration": "https://www.youtube.com/embed/qneYR5IOEs4",
       "typeId": "1",
       "price": "2500",
-      "id": 19
+      "id": 20
     },
     {
       "userId": 1,
@@ -286,7 +286,7 @@
       "demonstration": "https://www.youtube.com/embed/SnI7kt1-dV4",
       "typeId": 3,
       "price": "1850",
-      "id": 20
+      "id": 21
     },
     {
       "userId": 1,
@@ -298,7 +298,7 @@
       "demonstration": "https://www.youtube.com/embed/LwKfZYMh23U?controls=0",
       "typeId": 2,
       "price": "124.00",
-      "id": 21
+      "id": 22
     },
     {
       "userId": 1,
@@ -310,7 +310,7 @@
       "demonstration": "https://www.youtube.com/embed/eH3sxhL73BE?controls=0",
       "typeId": 4,
       "price": "349.99",
-      "id": 22
+      "id": 23
     },
     {
       "userId": 2,
@@ -322,7 +322,7 @@
       "demonstration": "https://www.youtube.com/embed/IwhZmpdxBUA?controls=0",
       "typeId": 4,
       "price": "19.99",
-      "id": 23
+      "id": 24
     }
   ],
   "wishList": [
