@@ -64,7 +64,8 @@
       "artistUsingGear": "Jonathan Kreisberg",
       "demonstration": "https://www.youtube.com/embed/D8hjEvHzKfw",
       "typeId": 1,
-      "price": "4,500.00"
+      "price": "4,501.00",
+      "userId": 1
     },
     {
       "id": 2,
@@ -75,7 +76,8 @@
       "artistUsingGear": "Guthrie Trapp",
       "demonstration": "https://www.youtube.com/embed/TPuFHMa2TC4",
       "typeId": 2,
-      "price": "199.00"
+      "price": "199.00",
+      "userId": 1
     },
     {
       "id": 3,
@@ -86,7 +88,8 @@
       "artistUsingGear": "Guthrie Govan",
       "demonstration": "https://www.youtube.com/embed/B9y_SgAJ9vY",
       "typeId": 1,
-      "price": "2,799.99"
+      "price": "2,799.99",
+      "userId": 1
     },
     {
       "id": 4,
@@ -97,7 +100,8 @@
       "artistUsingGear": "Brent Mason",
       "demonstration": "https://www.youtube.com/embed/ep2OZKf8xRI",
       "typeId": 1,
-      "price": "2,999.99"
+      "price": "2,999.99",
+      "userId": 1
     },
     {
       "id": 5,
@@ -108,7 +112,8 @@
       "artistUsingGear": "Tim Pierce",
       "demonstration": "https://www.youtube.com/embed/Ep001Ok8b1I",
       "typeId": 2,
-      "price": "119.00"
+      "price": "119.00",
+      "userId": 1
     },
     {
       "id": 6,
@@ -119,7 +124,8 @@
       "artistUsingGear": "Tim Pierce",
       "demonstration": "https://www.youtube.com/embed/KVe368m6vpw",
       "typeId": 2,
-      "price": "449.00"
+      "price": "449.00",
+      "userId": 1
     },
     {
       "id": 7,
@@ -130,7 +136,8 @@
       "artistUsingGear": "John Oats",
       "demonstration": "https://www.youtube.com/embed/pfqxTr6XydQ",
       "typeId": 2,
-      "price": "479.00"
+      "price": "479.00",
+      "userId": 1
     },
     {
       "id": 8,
@@ -141,7 +148,8 @@
       "artistUsingGear": "Pete Thorn",
       "demonstration": "https://www.youtube.com/embed/T1FLwzZVJj0",
       "typeId": 2,
-      "price": "449.00"
+      "price": "449.00",
+      "userId": 1
     },
     {
       "id": 9,
@@ -152,7 +160,8 @@
       "artistUsingGear": "Robben Ford",
       "demonstration": "https://www.youtube.com/embed/CfL8BjiQbgs",
       "typeId": 3,
-      "price": "50,000.00"
+      "price": "50,000.00",
+      "userId": 1
     },
     {
       "id": 10,
@@ -163,7 +172,8 @@
       "artistUsingGear": "Mark Letteri",
       "demonstration": "https://www.youtube.com/embed/TJ96hClp9JM",
       "typeId": 3,
-      "price": "1,899.00"
+      "price": "1,899.00",
+      "userId": 1
     },
     {
       "id": 11,
@@ -174,7 +184,8 @@
       "artistUsingGear": "Jason Richardson",
       "demonstration": "https://www.youtube.com/embed/WXV-GLew7hU",
       "typeId": 3,
-      "price": "1,299.00"
+      "price": "1,299.00",
+      "userId": 1
     },
     {
       "id": 12,
@@ -185,7 +196,8 @@
       "artistUsingGear": "Robert Keeley",
       "demonstration": "https://www.youtube.com/embed/mhGU9hQsh14",
       "typeId": 3,
-      "price": "1,119.00"
+      "price": "1,119.00",
+      "userId": 1
     },
     {
       "id": 13,
@@ -196,7 +208,8 @@
       "artistUsingGear": "Mateus Asato",
       "demonstration": "https://www.youtube.com/embed/UWUZrkq6sWc",
       "typeId": 1,
-      "price": "3,849.00"
+      "price": "3,849.00",
+      "userId": 1
     },
     {
       "id": 14,
@@ -207,7 +220,8 @@
       "artistUsingGear": "Mateus Asato",
       "demonstration": "https://www.youtube.com/embed/OLpSZmDiE1Y",
       "typeId": 1,
-      "price": "4,249.00"
+      "price": "4,249.00",
+      "userId": 1
     },
     {
       "id": 15,
@@ -218,7 +232,8 @@
       "artistUsingGear": "Tim Henson",
       "demonstration": "https://www.youtube.com/embed/Fch1tUtXc8I",
       "typeId": 1,
-      "price": "699.00"
+      "price": "699.00",
+      "userId": 1
     },
     {
       "id": 16,
@@ -229,7 +244,8 @@
       "artistUsingGear": "Ariel Posen",
       "demonstration": "https://www.youtube.com/embed/VykFQySBfmM",
       "typeId": 4,
-      "price": "23.95"
+      "price": "23.95",
+      "userId": 1
     },
     {
       "id": 17,
@@ -240,7 +256,8 @@
       "artistUsingGear": "Billy Campbell",
       "demonstration": "https://www.youtube.com/embed/9l6U99PYXq4",
       "typeId": 4,
-      "price": "12.99"
+      "price": "12.99",
+      "userId": 1
     },
     {
       "id": 18,
@@ -251,7 +268,8 @@
       "artistUsingGear": "Derek Wells",
       "demonstration": "https://www.youtube.com/embed/QQHP5pRUnuE",
       "typeId": 4,
-      "price": "349.95"
+      "price": "349.95",
+      "userId": 1
     },
     {
       "id": 19,
@@ -262,7 +280,8 @@
       "artistUsingGear": "Ian Kendall",
       "demonstration": "https://www.youtube.com/embed/BOAGLIMuryg",
       "typeId": 4,
-      "price": "31.99"
+      "price": "31.99",
+      "userId": 1
     },
     {
       "userId": 1,
