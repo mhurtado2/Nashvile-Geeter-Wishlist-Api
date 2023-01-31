@@ -230,40 +230,100 @@
       "demonstration": "https://www.youtube.com/embed/VykFQySBfmM",
       "typeId": 4,
       "price": "23.95"
-    }, 
-    {
-        "id": 17,
-        "name": "Fret Wrap ",
-        "imageUrl": "https://media.guitarcenter.com/is/image/MMGS7/H96898000003001-00-2000x2000.jpg",
-        "brand": "Gruv Gear",
-        "description": "Attachable dampening wrap or string mute for stringed instruments. Cuts unwanted string noise and ringing. Wraps easily around the neck of your guitar and dampens or mutes the strings — perfect for studio sessions, tapping, and overtone control.",
-        "artistUsingGear": "Billy Campbell",
-        "demonstration": "https://www.youtube.com/embed/9l6U99PYXq4",
-        "typeId": 4,
-        "price": "12.99"
     },
     {
-        "id": 18,
-        "name": "7 Guitar Stand ",
-        "imageUrl": "https://cdn3.volusion.com/lqpzc.dkrfy/v/vspfiles/photos/3896-2.jpg?v-cache=1645439189",
-        "brand": "Fender",
-        "description": "Your collection of guitars has grown. And when you are on stage you want access to all of them since each delivers its own unique tone. With the Classic Series Case Stand from Fender, you get to bring all the guitars to the show and bring them in style. This 3-ply hardshell wooden case is built to last and features a classic tweed exterior and crushed-acrylic plush interior lining. While it looks like a traditional guitar case, it opens to reveal a beautiful, stage-ready guitar stand that holds up to 7 guitars! And with a vinyl-wrapped steel carry handle and steel latches, this stand is built to stand up to the rigors of loading in and out night after night. It's also a great stand for storing and displaying your guitars while at home. Its open design lets you grab each axe and play with ease and speed — a feature guitarists here at Sweetwater really appreciate.",
-        "artistUsingGear": "Derek Wells",
-        "demonstration": "https://www.youtube.com/embed/QQHP5pRUnuE",
-        "typeId": 4,
-        "price": "349.95"
-      },
-      {
-        "id": 18,
-        "name": "Musician's Tool Kit",
-        "imageUrl": "https://m.media-amazon.com/images/I/71wBIdwJG-L.jpg",
-        "brand": "Ernie Ball",
-        "description": "Be prepared with the Ernie Ball Musician's Tool Kit! Grab this value-packed accessory kit, and you'll be prepared for almost any guitar or bass maintenance task. You get a microfiber polish cloth and Wonder Wipes to keep your guitar or bass looking like new. You also get a heavy-duty string cutter and peg winder for fast string changes. And the Musician's Tool Kit's 6-in-1 screwdriver, hex wrench set, and ruler make it easy to fine-tune your instrument. Show your guitar you care - call Sweetwater for the Ernie Ball Musician's Tool Kit!",
-        "artistUsingGear": "Ian Kendall",
-        "demonstration": "https://www.youtube.com/embed/BOAGLIMuryg",
-        "typeId": 4,
-        "price": "31.99"
-      }
+      "id": 17,
+      "name": "Fret Wrap ",
+      "imageUrl": "https://media.guitarcenter.com/is/image/MMGS7/H96898000003001-00-2000x2000.jpg",
+      "brand": "Gruv Gear",
+      "description": "Attachable dampening wrap or string mute for stringed instruments. Cuts unwanted string noise and ringing. Wraps easily around the neck of your guitar and dampens or mutes the strings — perfect for studio sessions, tapping, and overtone control.",
+      "artistUsingGear": "Billy Campbell",
+      "demonstration": "https://www.youtube.com/embed/9l6U99PYXq4",
+      "typeId": 4,
+      "price": "12.99"
+    },
+    {
+      "id": 18,
+      "name": "7 Guitar Stand ",
+      "imageUrl": "https://cdn3.volusion.com/lqpzc.dkrfy/v/vspfiles/photos/3896-2.jpg?v-cache=1645439189",
+      "brand": "Fender",
+      "description": "Your collection of guitars has grown. And when you are on stage you want access to all of them since each delivers its own unique tone. With the Classic Series Case Stand from Fender, you get to bring all the guitars to the show and bring them in style. This 3-ply hardshell wooden case is built to last and features a classic tweed exterior and crushed-acrylic plush interior lining. While it looks like a traditional guitar case, it opens to reveal a beautiful, stage-ready guitar stand that holds up to 7 guitars! And with a vinyl-wrapped steel carry handle and steel latches, this stand is built to stand up to the rigors of loading in and out night after night. It's also a great stand for storing and displaying your guitars while at home. Its open design lets you grab each axe and play with ease and speed — a feature guitarists here at Sweetwater really appreciate.",
+      "artistUsingGear": "Derek Wells",
+      "demonstration": "https://www.youtube.com/embed/QQHP5pRUnuE",
+      "typeId": 4,
+      "price": "349.95"
+    },
+    {
+      "id": 18,
+      "name": "Musician's Tool Kit",
+      "imageUrl": "https://m.media-amazon.com/images/I/71wBIdwJG-L.jpg",
+      "brand": "Ernie Ball",
+      "description": "Be prepared with the Ernie Ball Musician's Tool Kit! Grab this value-packed accessory kit, and you'll be prepared for almost any guitar or bass maintenance task. You get a microfiber polish cloth and Wonder Wipes to keep your guitar or bass looking like new. You also get a heavy-duty string cutter and peg winder for fast string changes. And the Musician's Tool Kit's 6-in-1 screwdriver, hex wrench set, and ruler make it easy to fine-tune your instrument. Show your guitar you care - call Sweetwater for the Ernie Ball Musician's Tool Kit!",
+      "artistUsingGear": "Ian Kendall",
+      "demonstration": "https://www.youtube.com/embed/BOAGLIMuryg",
+      "typeId": 4,
+      "price": "31.99"
+    },
+    {
+      "userId": 1,
+      "name": "ES-335",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0343/4368/2183/products/gibson-electric-guitars-semi-hollow-gibson-es-335-sunburst-1960-u3715775401-29237229846663_1973x.jpg?v=1652815943",
+      "brand": "Gibson",
+      "description": "The Gibson ES-335 DOT is the cornerstone of the Gibson ES line-up. From its inaugural appearance in 1958, the Gibson ES-335 set an unmatched standard. The pearloid dot inlay rosewood fingerboard on a hand-rolled Rounded \"C\" mahogany neck remind players where it all started. Gibson's Calibrated T-Type humbucking pickups are paired with our hand-wired control assembly. The result is that versatile Gibson ES tone that players have craved for over 60 years. Tuning stability and precise intonation are provided by the Vintage Deluxe tuners with Keystone buttons, paired with light weight Aluminum ABR-1 bridge and Stop Bar tailpiece, anchored by steel thumb-wheels and tailpiece studs.",
+      "artistUsingGear": "Kirk Fletcher ",
+      "demonstration": "https://www.youtube.com/embed/qneYR5IOEs4",
+      "typeId": "1",
+      "price": "2500",
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "name": "Quad Cortex",
+      "imageUrl": "https://images.reverb.com/image/upload/s--pH2IFrzd--/f_auto,t_supersize/v1628185307/hqark0eh3ideimxgpys5.jpg",
+      "brand": "Neural DSP",
+      "description": "The Quad Cortex floor processor from Neural DSP fuses high-precision studio guitar and bass tones with real-world gigging flexibility. This slim, self-contained floor processor is powered by Quad-Core SHARC DSP and Neural’s proven sound-modeling technology to bring today’s players the ultimate in grab-and-go session accessibility. Inside, more than 50 amps, 1,000 cabs, and 70 stomps serve as building blocks for crafting your favorite rigs, along with a built-in performance looper. Download presets from the cloud for instant genre/artist inspiration — no computer required — or use Quad Cortex’s Neural Capture to bring your favorite studio tones on the road with you. The Quad Cortex’s elegant layout is driven by a 7-inch full-color touchscreen and 11 rotary footswitches that twist and stomp to bridge hands-on amp tweaking and navigation with fuss-free foot control. Quad Cortex also gives you configurable inputs and outputs, which can be saved independently for each of its two user presets, along with MIDI and audio delivery over USB for producer-grade plug-and-play recorded tones. Believe it or not, Quad Cortex packs enough horsepower to serve multiple amp chains and even multiple players at once. So, whether you’re touring or tracking, both you and a bandmate can leave your amps at home when you’ve got the Neural DSP Quad Cortex in tow. Factor in firmware updates and user backups over Wi-Fi (again, no laptop required), unlimited set lists, and three modes of operation to line up tones to go, and it’s hard to overstate how dramatic an impact the Neural DSP Quad Cortex floor processor can have on your performance life.",
+      "artistUsingGear": "Aaron Marshall",
+      "demonstration": "https://www.youtube.com/embed/SnI7kt1-dV4",
+      "typeId": 3,
+      "price": "1850",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "name": "Super Clean ",
+      "imageUrl": "https://images.reverb.com/image/upload/s--RBT2pV6q--/f_auto,t_supersize/v1549579484/dgx3fxbru8eerf4fqbvp.jpg",
+      "brand": "Xotic",
+      "description": "The Xotic Super Clean is a high end buffer with a convenient Gain control in a mini pedal format. It features the legendary 4558 integrated circuit and provides multiple EQ settings with four DIP switches accessible from the outside of the pedal housing (High, High Mid, Low Mid, Low).",
+      "artistUsingGear": "Pete Thorn",
+      "demonstration": "https://www.youtube.com/embed/LwKfZYMh23U?controls=0",
+      "typeId": 2,
+      "price": "124.00",
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "name": "Classic Dual Electric Guitar Case",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0468/6148/4199/products/ScreenShot2022-11-29at1.31.42PM_1636x1500.png?v=1669746745",
+      "brand": "Mono",
+      "description": "The MONO M80 dual-guitar gig bag solves the hassle of traveling with two guitars. MONO's elegant solution, the M80, offers each of your instruments the same protection that separate cases would. You often have two instruments handy at gigs, in the studio, or on tour. Now you can bring 'em both, hassle free. The M80's innovative design creates, essentially, a separate case for each guitar - and it also works great if you're only packin' one guitar. Next time you have to travel with two guitars, grab the one case you need: the MONO M80!",
+      "artistUsingGear": "Pretty Much Everyone Lol",
+      "demonstration": "https://www.youtube.com/embed/eH3sxhL73BE?controls=0",
+      "typeId": 4,
+      "price": "349.99",
+      "id": 22
+    },
+    {
+      "userId": 2,
+      "name": "Super Tight Chromatic Tuner",
+      "imageUrl": "https://m.media-amazon.com/images/I/71m6m0DqOdL.jpg",
+      "brand": "Snark",
+      "description": "Boasting more accuracy than ever, the Snark ST-8 tuner is ideal for guitar, bass, and ukulele. One of the most feature-packed compact tuners you’ll find at Sweetwater, the Snark ST-8 features flat tuning, transpose functions, and easy pitch calibration. Its ultra-tight tuning reacts directly to the vibration of your instrument, so you never have to worry about background noise as you tune. Just clip the Snark ST-8 to the headstock of your guitar or any resonant part of your instrument, and you’re good to go. What’s more, the Snark ST-8’s upgraded high-definition display rotates 360 degrees, so it’s perfect for lefties too!",
+      "artistUsingGear": "Guthrie Trapp",
+      "demonstration": "https://www.youtube.com/embed/IwhZmpdxBUA?controls=0",
+      "typeId": 4,
+      "price": "19.99",
+      "id": 23
+    }
   ],
   "wishList": [
     {
