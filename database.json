@@ -64,7 +64,7 @@
       "artistUsingGear": "Jonathan Kreisberg",
       "demonstration": "https://www.youtube.com/embed/D8hjEvHzKfw",
       "typeId": 1,
-      "price": "4,501.00",
+      "price": "4,600.00",
       "userId": 1
     },
     {
@@ -82,7 +82,7 @@
     {
       "id": 3,
       "name": " Guthrie Govan Signature",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMEQmAVfHDxBbpf3ogRBtsfQev1QNT9yHTlg&usqp=CAU",
+      "imageUrl": "http://cdn.ecommercedns.uk/files/2/229692/0/9291070/dsc06423.jpg",
       "brand": "Charvel",
       "description": "Solidbody Electric Guitar with Basswood Body, Ash Top, Maple Neck, Maple Fingerboard, 2 Humbucking Pickups, 1 Single-coil Pickup, and Locking Tremolo - 3-tone Sunburst",
       "artistUsingGear": "Guthrie Govan",
@@ -450,6 +450,138 @@
       "typeId": 4,
       "price": "119.00",
       "id": 33
+    },
+    {
+      "userId": 1,
+      "name": "Carbon Fiber Touring Camo Travel Guitar",
+      "imageUrl": "https://images.reverb.com/image/upload/s--BLby1Js4--/f_auto,t_large/v1653690474/sawinvddittpux6gz6gr.jpg",
+      "brand": "McPherson ",
+      "description": "This carbon masterpiece packs the best of McPherson engineering into a road-worthy all-star. It’s a rugged performer that stands up to the most demanding musician’s needs.",
+      "artistUsingGear": "Carl Miner",
+      "demonstration": "https://www.youtube.com/embed/45RGiM_8-7g",
+      "typeId": 1,
+      "price": "2799.00",
+      "id": 34
+    },
+    {
+      "userId": 1,
+      "name": "66 BT Baritone Electric Guitar",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0288/1498/products/danelectro-electric-guitar-danelectro-d-56-baritone-electric-guitar-black-metalfake-37687424581886_5000x.jpg?v=1657665940",
+      "brand": "Danelectro",
+      "description": "Danelectro's 66BT baritone electric guitar combines versatile tones with vintage styling to create a noteworthy axe for your collection. The semi-hollow alder body provides a warm tone and resonance that you'll love. It has a vintage-style single-coil pickup in the neck position and a humbucking dual-lipstick pickup in the bridge that work together to crunch out thick mellow tones. This axe also has a Wilkinson vibrato bridge that'll let you add vibrato without pulling you out of tune. The C-shaped maple neck and pau ferro fingerboard will feel comfortable, no matter your playing style. With its avant-garde styling and great tonal options, the Danelectro 66BT semi-hollow baritone guitar is one you won't want to pass up.",
+      "artistUsingGear": "Rj Ronquillo",
+      "demonstration": "https://www.youtube.com/embed/ZdxOy6hH-zQ",
+      "typeId": 1,
+      "price": "899.00",
+      "id": 35
+    },
+    {
+      "userId": 1,
+      "name": "Les Paul Standard '50s P90 Gold Top",
+      "imageUrl": "https://max.guitars/media/catalog/product/cache/55c72fef4415145db30bd2dcfee62df6/m/a/max_guitar_art-14766_gibson_les_paul_standard_50_p90_121890047-1.jpg",
+      "brand": "Gibson",
+      "description": "In the pantheon of classic solidbody electric guitars, it doesn’t get any more classic than a Les Paul Goldtop with P-90 pickups. We present to you the Gibson Les Paul Standard ’50s P-90. Your fingers will fly on this guitar’s silky, bound rosewood fingerboard and Plek’d frets. Fitted with a pair of Gibson’s legendary P-90 pickups, this ’Paul growls with the big cats. All the classic elements are here: carved maple top over solid mahogany, trapezoid fingerboard inlays, and that iconic gold finish — even the ones you don’t see, like handwired circuitry with Orange Drop caps. And you’ll enjoy effortless playability courtesy of a satisfying vintage ’50s profile neck. If you’ve been wanting a modern Les Paul with a chunky neck feel, P-90s, and premium appointments, Sweetwater has the one you’ve been waiting for. Take a walk on the classic side with the Gibson Les Paul Standard ’50s P-90.",
+      "artistUsingGear": "Slash",
+      "demonstration": "https://www.youtube.com/embed/YtLZFHqM5bc",
+      "typeId": 1,
+      "price": "2799.00",
+      "id": 36
+    },
+    {
+      "userId": 1,
+      "name": "GE-77-band EQ Pedal",
+      "imageUrl": "data:image/jpeg;base64,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",
+      "brand": "Boss",
+      "description": "",
+      "artistUsingGear": "Shane Hurtado",
+      "demonstration": "https://www.youtube.com/embed/Mdw2uNb9Mj0",
+      "typeId": 2,
+      "price": "119.00",
+      "id": 37
+    },
+    {
+      "userId": 1,
+      "name": "Super Chorus",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0899/5804/products/DSC_0238LEAD_54024f77-ac2c-46cf-8f97-a7c82cc4e6c4_2048x.jpg?v=1661649826",
+      "brand": "Boss",
+      "description": "The BOSS CH-1 Super Chorus pedal offers up classic clean and shimmering chorus tones - it's arguably the best-selling chorus pedal on the planet, and a stellar pick for any guitarist or keyboardist. The CH-1's four onboard controls let you take charge of your chorus sound - there are effect level, EQ, rate, and depth controls. Crank up the rate for a dizzying psychedelic twist - or, pull back the rate, turn up the depth, and use the BOSS CH-1 in stereo for a lush, wide wave.",
+      "artistUsingGear": "Joe Satriani",
+      "demonstration": "https://www.youtube.com/embed/L5i7A6ya8mA",
+      "typeId": 2,
+      "price": "119.99",
+      "id": 38
+    },
+    {
+      "userId": 1,
+      "name": "Volume Pedal",
+      "imageUrl": "https://media.rainpos.com/10422/ernieball_volume.jpg",
+      "brand": "Ernie Ball",
+      "description": "The Ernie Ball 6166 Mono Volume Pedal puts complete volume control right at your feet! This quality volume pedal makes an excellent hands-free alternative for players who like to ride the volume knob. Use it to create amazing tonal textures in conjunction with other effects, or perform classic pedal-steel swells with ease. The 6166 Mono Volume Pedal uses a 250k ohm resistance for great performance with passive instruments. It includes an internal taper switch that allows you to select betwee two volume swell rates. A handy independent tuner output allows for silent tuning when the 6166 Mono Volume Pedal is in the \"heel down\" position.",
+      "artistUsingGear": "Mark Knopfler",
+      "demonstration": "",
+      "typeId": 2,
+      "price": "119.99",
+      "id": 39
+    },
+    {
+      "userId": 1,
+      "name": "Ep Booster",
+      "imageUrl": "https://www.nstuffmusic.com/images/product/large/ae00-13242_1_.jpg",
+      "brand": "Xotic",
+      "description": "The Xotic EP Booster pedal for electric guitar is based on the preamp stage of the classic EP-3 echo effects processor. Legendary guitarists used that preamp to craft their studio tones, including Jimmy Page, Eddie Van Halen, and Eric Johnson. The EP Booster pedal delivers up to 20dB of boost that will add an undeniably rich character to your guitar tone. Internal Dip switches allow you to fine-tune the boost frequencies and EQ settings. To hit your amp harder while also adding some character to your tone, Sweetwater can highly recommend the Xotic EP Booster pedal.",
+      "artistUsingGear": "Ian Kendall",
+      "demonstration": "https://www.youtube.com/embed/dlwXIX805zY",
+      "typeId": 2,
+      "price": "124.00",
+      "id": 40
+    },
+    {
+      "userId": 1,
+      "name": "Deluxe Reverb",
+      "imageUrl": "https://media.rainpos.com/10989/IMG_3063.jpg",
+      "brand": "Fender",
+      "description": "The 22-watt '65 Deluxe Reverb just bleeds tube tone, thanks to its four 12AX7s, two 12AT7s, two 6V6s, and a 5AR4 rectifier tube - not to mention that both the reverb and vibrato are tube driven. A single 12\" speaker puts the finishing touches on the fat sounds conjured by this reissued classic. The '65 Deluxe Reverb is the perfect amp for anyone who craves pure Fender tone but doesn't need a ton of wattage. Black vinyl and silver grille cloth round out the vintage look of the beautiful '65 Deluxe Reverb.",
+      "artistUsingGear": "",
+      "demonstration": "https://www.youtube.com/embed/CEsbT3LTu-c",
+      "typeId": 3,
+      "price": "1599.99",
+      "id": 41
+    },
+    {
+      "userId": 1,
+      "name": "JS12 Josh Smith Signature",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/1672/0575/products/DSC_0173_1024x.jpg?v=1540569398",
+      "brand": "Morgan Amps",
+      "description": "Based on Joe Morgan's original PR12, the Morgan Amps JS12 Josh Smith Signature all-tube combo guitar offers the Blackface-style tones of the original design while offering some top-shelf tweaks that Smith demands. Loaded with custom Mercury Magnetic transformers, a custom-designed Eminence JS1250 speaker, and a 3dB boost, Smith's signature amp takes the classic sound to a new level. On top of that, the JS12's tube-driven reverb boasts a dwell control for gorgeous ambience. Josh Smith carefully crafts his tone, and the Morgan JS12 1 x 12\" combo is the amp he uses.",
+      "artistUsingGear": "Josh Smith",
+      "demonstration": "https://www.youtube.com/embed/H-D1Z6f_RWw",
+      "typeId": 3,
+      "price": "2399.99",
+      "id": 42
+    },
+    {
+      "userId": 1,
+      "name": "Helix",
+      "imageUrl": "https://images.guitarguitar.co.uk/cdn/small/150/753_helix_MainControlsAngle.jpg",
+      "brand": "Line 6",
+      "description": "The Space Gray Line 6 Helix multi-effects floorboard processor reaches far beyond anything you've ever experienced. It can be a great addition to your rig, a streamlined controller for your existing system, or an incredible-sounding guitar interface for recording in the studio. It can even replace your entire effects setup! Equipped with Line 6's HX modeling engine, Helix will let you hear breathtaking models of modern and vintage amps, cabs, mics, and effects — all designed to sound and feel just like the originals. And your rig-integration options are limitless, with Helix's astoundingly comprehensive I/O and routing capabilities. Line 6 has long been at the forefront of the modeling revolution, and Helix is the professional guitar processor Line 6 was destined to create.",
+      "artistUsingGear": "Matteo Mancuso",
+      "demonstration": "https://www.youtube.com/embed/1TrU5R0-kG4",
+      "typeId": 3,
+      "price": "1699.99",
+      "id": 43
+    },
+    {
+      "userId": 1,
+      "name": "THR5 2x3\" 10-watt Modeling Combo Amp",
+      "imageUrl": "https://media.rainpos.com/6854/pO84CZEu.jpg",
+      "brand": "Yamaha",
+      "description": "Go anywhere and get killer tone with Yamaha's THR5 portable combo guitar amplifier. More than just a great-sounding, battery-powered guitar amplifier, the THR5 gives you a ton of useful tools for songwriting and recording, as well as practicing. Craft your tone from five intricately modeled tube amplifier types, four modulation effects, and four reverb/delay styles. The THR5's stereo hi-fi-style speakers are both great for its internal effects and external playback from your iPod or computer. Battery power lets you take your tones anywhere and, thanks to its USB connectivity, you'll also love the way your Yamaha THR5 guitar amplifier fits into your studio.",
+      "artistUsingGear": "Erbody",
+      "demonstration": "https://www.youtube.com/embed/JdlDSjnGp4k",
+      "typeId": 3,
+      "price": "209.99",
+      "id": 44
     }
   ],
   "wishList": [
