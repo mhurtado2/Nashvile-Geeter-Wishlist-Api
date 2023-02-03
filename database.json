@@ -292,7 +292,7 @@
       "artistUsingGear": "Kirk Fletcher ",
       "demonstration": "https://www.youtube.com/embed/qneYR5IOEs4",
       "typeId": "1",
-      "price": "2500",
+      "price": "2,500.99",
       "id": 20
     },
     {
@@ -304,7 +304,7 @@
       "artistUsingGear": "Aaron Marshall",
       "demonstration": "https://www.youtube.com/embed/SnI7kt1-dV4",
       "typeId": 3,
-      "price": "1850",
+      "price": "1,850.00",
       "id": 21
     },
     {
@@ -340,7 +340,7 @@
       "artistUsingGear": "Guthrie Trapp",
       "demonstration": "https://www.youtube.com/embed/IwhZmpdxBUA?controls=0",
       "typeId": 4,
-      "price": "19.99",
+      "price": "19.98",
       "id": 24
     },
     {
@@ -352,7 +352,7 @@
       "artistUsingGear": "Ed Sheeran",
       "demonstration": "https://www.youtube.com/embed/5hzKAPEGXNA",
       "typeId": 1,
-      "price": "1999.00",
+      "price": "1,999.00",
       "id": 25
     },
     {
@@ -364,7 +364,7 @@
       "artistUsingGear": "Angus Young",
       "demonstration": "https://www.youtube.com/embed/8-lQhm67ZxE",
       "typeId": 1,
-      "price": "2039.00",
+      "price": "2,039.00",
       "id": 26
     },
     {
@@ -400,7 +400,7 @@
       "artistUsingGear": "Brian May",
       "demonstration": "https://www.youtube.com/embed/1imATUUx19k",
       "typeId": 3,
-      "price": "1200",
+      "price": "1,200.00",
       "id": 29
     },
     {
@@ -412,7 +412,7 @@
       "artistUsingGear": "Eric Clapton",
       "demonstration": "https://www.youtube.com/embed/SNN03_5yOxg",
       "typeId": 3,
-      "price": "5503",
+      "price": "5,503.00",
       "id": 30
     },
     {
@@ -424,7 +424,7 @@
       "artistUsingGear": "Jonathan Kreisberg",
       "demonstration": "https://www.youtube.com/embed/HHaZWdePya8",
       "typeId": 3,
-      "price": "1241.99",
+      "price": "1,241.99",
       "id": 31
     },
     {
@@ -460,7 +460,7 @@
       "artistUsingGear": "Carl Miner",
       "demonstration": "https://www.youtube.com/embed/45RGiM_8-7g",
       "typeId": 1,
-      "price": "2799.00",
+      "price": "2,799.00",
       "id": 34
     },
     {
@@ -484,7 +484,7 @@
       "artistUsingGear": "Slash",
       "demonstration": "https://www.youtube.com/embed/YtLZFHqM5bc",
       "typeId": 1,
-      "price": "2799.00",
+      "price": "2,799.00",
       "id": 36
     },
     {
@@ -544,7 +544,7 @@
       "artistUsingGear": "",
       "demonstration": "https://www.youtube.com/embed/CEsbT3LTu-c",
       "typeId": 3,
-      "price": "1599.99",
+      "price": "1,599.99",
       "id": 41
     },
     {
@@ -556,7 +556,7 @@
       "artistUsingGear": "Josh Smith",
       "demonstration": "https://www.youtube.com/embed/H-D1Z6f_RWw",
       "typeId": 3,
-      "price": "2399.99",
+      "price": "2,399.99",
       "id": 42
     },
     {
@@ -568,7 +568,7 @@
       "artistUsingGear": "Matteo Mancuso",
       "demonstration": "https://www.youtube.com/embed/1TrU5R0-kG4",
       "typeId": 3,
-      "price": "1699.99",
+      "price": "1,699.99",
       "id": 43
     },
     {
@@ -582,6 +582,54 @@
       "typeId": 3,
       "price": "209.99",
       "id": 44
+    },
+    {
+      "userId": 1,
+      "name": "Classic Jr",
+      "imageUrl": "https://i.pinimg.com/originals/b6/64/6a/b6646ab2ca590ed0165806b4a71a500a.jpg",
+      "brand": "Pedaltrain",
+      "description": "Rooted in their popular PT-JR pedalboard, the Classic JR from Pedaltrain takes that time-tested design and makes it even better! First of all, you can stop trying to stuff your cables through those tiny portholes - the Classic JR's open-front design makes mounting your power supplies child's play. On top of that, Pedaltrain has has given the Classic JR a wider stance and has increased its elevation by an entire inch, so it can accommodate just about any power supply or switching system that you may have in your rig. The guitarists here at Sweetwater have relied on Pedaltrain's rugged aircraft-grade aluminum alloy pedalboards for more than a decade. Grab yourself a Classic JR and see why!",
+      "artistUsingGear": "John Mayer ",
+      "demonstration": "https://www.youtube.com/embed/qnC7IHJXUlA\"",
+      "typeId": 4,
+      "price": "139.99",
+      "id": 45
+    },
+    {
+      "userId": 1,
+      "name": "BlueTurn",
+      "imageUrl": "https://m.media-amazon.com/images/I/41rK8-KGAEL._AC_SY350_.jpg",
+      "brand": "IK Multimedia",
+      "description": "IK Multimedia's BlueTurn Wireless PageTurner Footswitch is a compact Bluetooth page turning solution for iPhone/iPad, Mac and Android that lets you turn pages with your feet while performing. It comes with two highly visible backlit soft-touch buttons that you can trigger with your feet to turn pages, leaf through lyrics, scroll slides and more in your favorite apps and software.  Now, with the BlueTurn, you'll be ready to perform at your best whether you're conducting an orchestra, playing music from a score, playing guitar or bass tabs, giving a presentation or making a speech. With the BlueTurn Wireless PageTurner footswitch, it's your turn, literally.  Its two buttons send messages to a synced device via Bluetooth LE technology. Just pair the BlueTurn with your device or computer, fire up a compatible app — it works with all of the popular page turning and document viewing apps and software including Adobe Reader and IK's own iKlip Stage — and you'll be ready to go.  The BlueTurn Wireless PageTurner's buttons can be used in three different configurations: They can send Page Up/Page Down, Arrow Up/Arrow Down or Arrow Left/Arrow Right commands depending on what you want to do. These different modes can all be chosen directly from the hardware when powering up.  This simple solution can be used with an iPhone, iPod touch, iPad, Mac or any Android device with OS 4.3 and above that supports Bluetooth LE.",
+      "artistUsingGear": "Shane Hurtado",
+      "demonstration": "https://www.youtube.com/embed/Z1Jb6N42dJQ",
+      "typeId": 4,
+      "price": "79.99",
+      "id": 46
+    },
+    {
+      "userId": 1,
+      "name": "2-in-1 Tablet and Phone Holder",
+      "imageUrl": "https://i.ytimg.com/vi/oTFXpB9uwAY/maxresdefault.jpg",
+      "brand": "Hercules Stands",
+      "description": "Imagine that you usually perform with your tablet onstage. On the rare occasion that you forget your tablet, you can still save your set by popping your smartphone into the Hercules Stands GD307B 2-in-1 Tablet and Phone Holder. The GD307B supports smart devices with screen sizes between 6.1 inches and 13 inches. The holder clamps to round mic stands and square tubing for a secure hold in any situation. What’s more, it comes outfitted with a threaded hole (1/4-inch-20 threads) for cameras. The build quality of the GD307B 2-in-1 Tablet and Phone Holder from Sweetwater is top notch, so you can be assured that it can keep up with even the most demanding users.",
+      "artistUsingGear": "Shane Hurtado",
+      "demonstration": "https://www.youtube.com/embed/oTFXpB9uwAY",
+      "typeId": 4,
+      "price": "49.99",
+      "id": 47
+    },
+    {
+      "userId": 1,
+      "name": "The Tick 2.0",
+      "imageUrl": "https://media.rainpos.com/6854/WWwEkY_0.jpeg",
+      "brand": "Mono",
+      "description": "Unfortunately, even the most equipped gig bags can sometimes not be enough for getting all your cables, pedals, laptops, and maintenance accessories to the gig. But when you add MONO's The Tick 2.0 to your gig bag, you'll have more than enough secure storage to ensure you're never without that important piece of your rig. Strapping directly to your gig bag for easy transport, The Tick 2.0 opens with multiple pockets, pouches, and secure spots for your tools, cables, and more. If you want to be sure everything you need is close by, grab The Tick 2.0 from Sweetwater today.",
+      "artistUsingGear": "Victor Wooten",
+      "demonstration": "https://www.youtube.com/embed/htDHsmWUrzU",
+      "typeId": 4,
+      "price": "99.99",
+      "id": 48
     }
   ],
   "wishList": [
