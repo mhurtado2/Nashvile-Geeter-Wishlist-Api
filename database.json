@@ -633,12 +633,24 @@
       "id": 48
     }
   ],
-  "wishList": [
+  "blogs": [
     {
       "id": 1,
-      "purchased": false,
+      "name": "Guthrie Trapp Overdrive Pedal",
       "userId": 1,
-      "gearId": 2
+      "edit": "The Price on this is wrong!"
+    },
+    {
+      "userId": 2,
+      "name": " Guthrie Govan Signature",
+      "edit": "whyyyyy",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "name": " Guthrie Govan Signature",
+      "edit": "whyyyyy",
+      "id": 3
     }
   ]
 }
