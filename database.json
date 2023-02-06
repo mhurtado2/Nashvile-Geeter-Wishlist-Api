@@ -4,36 +4,37 @@
       "id": 1,
       "fullName": "Shane Hurtado",
       "email": "mhurtado1@berklee.edu",
-      "phoneNumber": "(507) 720-1157",
       "isAdmin": true
     },
     {
       "id": 2,
       "fullName": "Guthrie Trapp",
       "email": "gtrapp@gmail.com",
-      "phoneNumber": "(321) 520-1457",
       "isAdmin": false
     },
     {
       "id": 3,
       "fullName": "Brent Mason",
       "email": "bmason@gmail.com",
-      "phoneNumber": "(456) 320-2357",
       "isAdmin": false
     },
     {
       "id": 4,
       "fullName": "Guthrie Govan",
       "email": "ggovan@gmail.com",
-      "phoneNumber": "(561) 890-1157",
       "isAdmin": false
     },
     {
       "id": 5,
       "fullName": "Jonathan Kreisberg",
       "email": "Jkreisberg@gmail.com",
-      "phoneNumber": "(907)891-4567",
       "isAdmin": false
+    },
+    {
+      "email": "mfields1@gmail.com",
+      "fullName": "Madison Fields",
+      "isAdmin": false,
+      "id": 7
     }
   ],
   "types": [
@@ -64,7 +65,7 @@
       "artistUsingGear": "Jonathan Kreisberg",
       "demonstration": "https://www.youtube.com/embed/D8hjEvHzKfw",
       "typeId": 1,
-      "price": "4,600.00",
+      "price": "4,500.00",
       "userId": 1
     },
     {
