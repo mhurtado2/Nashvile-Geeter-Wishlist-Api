@@ -635,22 +635,11 @@
   ],
   "blogs": [
     {
-      "id": 1,
-      "name": "Guthrie Trapp Overdrive Pedal",
       "userId": 1,
-      "edit": "The Price on this is wrong!"
-    },
-    {
-      "userId": 2,
-      "name": " Guthrie Govan Signature",
-      "edit": "whyyyyy",
-      "id": 2
-    },
-    {
-      "userId": 2,
-      "name": " Guthrie Govan Signature",
-      "edit": "whyyyyy",
-      "id": 3
+      "name": "0DR 1 Natural Overdrive",
+      "gearId": 5,
+      "edit": "noooo",
+      "id": 13
     }
   ]
 }
