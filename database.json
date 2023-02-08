@@ -408,7 +408,7 @@
       "userId": 2,
       "name": "1959 Super Lead 100 Watt Plexi",
       "imageUrl": "https://cdne-marshall-assets.azureedge.net/content/uploads/ee109554-07a8-4d9b-bd42-dd5f22d6b59b.jpg?20210928083219",
-      "brand": " Marshall",
+      "brand": "Marshall",
       "description": "Introduced in 1965 (1959 has nothing to do with its year of release), the amplifier included four inputs, two channels, 100 watts of searing power and a Plexiglass faceplate (hence “Plexi”). Matched with 4x12 cabinets, the 1959 Super Lead helped to popularize the Marshall stack.",
       "artistUsingGear": "Eric Clapton",
       "demonstration": "https://www.youtube.com/embed/SNN03_5yOxg",
@@ -661,6 +661,13 @@
       "gearId": 33,
       "edit": "I bought one of these but it really got in the way when playing guitar. :(",
       "id": 24
+    },
+    {
+      "userId": 1,
+      "name": "ES-175D",
+      "gearId": 1,
+      "edit": "This price is wrong, should be $4,500.00!",
+      "id": 25
     }
   ]
 }
