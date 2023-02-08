@@ -636,38 +636,39 @@
   "blogs": [
     {
       "userId": 1,
-      "name": "Morbius",
-      "gearId": 8,
-      "edit": "Please edit the price of this, it is no longer correct!",
-      "id": 21
+      "gearId": 16,
+      "edit": "I've been searching for a pinky slide, and this one looks great!",
+      "id": 1
     },
     {
       "userId": 1,
-      "name": "Overdrive Special",
+      "gearId": 3,
+      "edit": "I wish I could play like Guthrie!",
+      "id": 2
+    },
+    {
+      "userId": 1,
       "gearId": 9,
-      "edit": "Dumble amps are super rare, do you really think it should be on this wishlist?",
-      "id": 22
+      "edit": "Why is this on here? They are so rare lol",
+      "id": 3
     },
     {
       "userId": 1,
-      "name": "Electronic Bow",
-      "gearId": 32,
-      "edit": "Why is this thing on here? It sucks!",
-      "id": 23
-    },
-    {
-      "userId": 1,
-      "name": "Metronome Watch",
       "gearId": 33,
-      "edit": "I bought one of these but it really got in the way when playing guitar. :(",
-      "id": 24
+      "edit": "I tried this out, honestly it got in the way most of the time!",
+      "id": 4
     },
     {
       "userId": 1,
-      "name": "ES-175D",
-      "gearId": 1,
-      "edit": "This price is wrong, should be $4,500.00!",
-      "id": 25
+      "gearId": 32,
+      "edit": "Take this crap off the wishlist plssssssss",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "gearId": 25,
+      "edit": "The price on this item is incorrect. Please change should be $1200.00!",
+      "id": 6
     }
   ]
 }
