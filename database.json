@@ -636,50 +636,31 @@
   "blogs": [
     {
       "userId": 1,
-      "name": "0DR 1 Natural Overdrive",
-      "gearId": 5,
-      "edit": "noooo",
-      "id": 13
+      "name": "Morbius",
+      "gearId": 8,
+      "edit": "Please edit the price of this, it is no longer correct!",
+      "id": 21
     },
     {
       "userId": 1,
-      "name": " Guthrie Govan Signature",
-      "gearId": 3,
-      "edit": "woahhh",
-      "id": 14
-    },
-    {
-      "userId": 2,
-      "name": "Brent Mason Telecaster",
-      "gearId": 4,
-      "edit": "yoooo",
-      "id": 15
+      "name": "Overdrive Special",
+      "gearId": 9,
+      "edit": "Dumble amps are super rare, do you really think it should be on this wishlist?",
+      "id": 22
     },
     {
       "userId": 1,
-      "name": "ES-175D",
-      "gearId": 1,
-      "edit": "yooo",
-      "id": 16
+      "name": "Electronic Bow",
+      "gearId": 32,
+      "edit": "Why is this thing on here? It sucks!",
+      "id": 23
     },
     {
       "userId": 1,
-      "name": "Guthrie Trapp Overdrive Pedal",
-      "gearId": 2,
-      "edit": "yooooo",
-      "id": 17
-    },
-    {
-      "userId": 1,
-      "gearId": null,
-      "edit": "yooooo",
-      "id": 18
-    },
-    {
-      "userId": 1,
-      "gearId": null,
-      "edit": "yooo",
-      "id": 19
+      "name": "Metronome Watch",
+      "gearId": 33,
+      "edit": "I bought one of these but it really got in the way when playing guitar. :(",
+      "id": 24
     }
   ]
 }
