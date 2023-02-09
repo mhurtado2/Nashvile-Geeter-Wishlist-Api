@@ -669,6 +669,18 @@
       "gearId": 25,
       "edit": "The price on this item is incorrect. Please change should be $1200.00!",
       "id": 6
+    },
+    {
+      "userId": 2,
+      "gearId": 4,
+      "edit": "Love the 3 pickups and b-bender on this beast!",
+      "id": 7
+    },
+    {
+      "userId": 2,
+      "gearId": 41,
+      "edit": "woahhhhhh",
+      "id": 8
     }
   ]
 }
