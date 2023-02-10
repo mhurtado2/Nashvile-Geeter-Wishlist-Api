@@ -401,7 +401,7 @@
       "artistUsingGear": "Brian May",
       "demonstration": "https://www.youtube.com/embed/1imATUUx19k",
       "typeId": 3,
-      "price": "1,200.00",
+      "price": "1,300.00",
       "id": 29
     },
     {
@@ -425,7 +425,7 @@
       "artistUsingGear": "Jonathan Kreisberg",
       "demonstration": "https://www.youtube.com/embed/HHaZWdePya8",
       "typeId": 3,
-      "price": "1,241.99",
+      "price": "1,341.99",
       "id": 31
     },
     {
@@ -654,12 +654,6 @@
     },
     {
       "userId": 1,
-      "gearId": 3,
-      "edit": "I wish I could play like Guthrie!",
-      "id": 2
-    },
-    {
-      "userId": 1,
       "gearId": 9,
       "edit": "Why is this on here? They are so rare lol",
       "id": 3
@@ -687,6 +681,24 @@
       "gearId": 4,
       "edit": "Love the 3 pickups and b-bender on this beast!",
       "id": 7
+    },
+    {
+      "userId": 2,
+      "gearId": 16,
+      "edit": "has wrong price",
+      "id": 8
+    },
+    {
+      "userId": 2,
+      "gearId": 28,
+      "edit": "This pedal is dope!",
+      "id": 9
+    },
+    {
+      "userId": 2,
+      "gearId": 39,
+      "edit": "this is pedal is sick",
+      "id": 10
     }
   ]
 }
