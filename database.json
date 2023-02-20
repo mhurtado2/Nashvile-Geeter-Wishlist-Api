@@ -245,7 +245,7 @@
       "artistUsingGear": "Ariel Posen",
       "demonstration": "https://www.youtube.com/embed/VykFQySBfmM",
       "typeId": 4,
-      "price": "23.95",
+      "price": "24.95",
       "userId": 1
     },
     {
@@ -642,21 +642,9 @@
     },
     {
       "userId": 1,
-      "gearId": 9,
-      "edit": "Why is this on here? They are so rare lol",
-      "id": 3
-    },
-    {
-      "userId": 1,
       "gearId": 33,
       "edit": "I tried this out, honestly it got in the way most of the time!",
       "id": 4
-    },
-    {
-      "userId": 1,
-      "gearId": 32,
-      "edit": "Take this crap off the wishlist plssssssss",
-      "id": 5
     },
     {
       "userId": 1,
@@ -669,18 +657,6 @@
       "gearId": 4,
       "edit": "Love the 3 pickups and b-bender on this beast!",
       "id": 7
-    },
-    {
-      "userId": 2,
-      "gearId": 16,
-      "edit": "has wrong price",
-      "id": 8
-    },
-    {
-      "userId": 2,
-      "gearId": 28,
-      "edit": "This pedal is dope!",
-      "id": 9
     }
   ]
 }
