@@ -365,7 +365,7 @@
       "artistUsingGear": "Angus Young",
       "demonstration": "https://www.youtube.com/embed/8-lQhm67ZxE",
       "typeId": 1,
-      "price": "2,039.00",
+      "price": "2,039.99",
       "id": 26
     },
     {
@@ -631,18 +631,6 @@
       "typeId": 4,
       "price": "99.99",
       "id": 48
-    },
-    {
-      "userId": 1,
-      "name": "Drop Tune Pedal",
-      "imageUrl": " https://www.nstuffmusic.com/images/product/large/ae00-32902.jpg",
-      "brand": "DigiTech",
-      "description": "Get quick and precise pitch shifting from the DigiTech Drop guitar effects pedal. Rather than dealing with flabby strings that rattle against your fretboard and clatter on your pickups or futzing with your tuners between songs, all you have to do is step down on your Drop pedal to get the tuned-down chunk you crave with the playing action you demand. Nine settings give you 1-7 semitones of polyphonic down tuning plus settings for one octave down with or without dry signal. One thing about the Drop pedal that the effects nuts here at Sweetwater really dig is the mini toggle switch, which lets you set the footswitch to momentary (Tap) or latch (Hold). That gives you a ton of great ways you can use the DigiTech Drop pedal to use in your rig.",
-      "artistUsingGear": "Rj Ronquillo",
-      "demonstration": "https://www.youtube.com/embed/VnZvTFlwt8Y",
-      "typeId": 2,
-      "price": "240",
-      "id": 49
     }
   ],
   "blogs": [
