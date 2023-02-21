@@ -509,7 +509,7 @@
       "artistUsingGear": "Joe Satriani",
       "demonstration": "https://www.youtube.com/embed/L5i7A6ya8mA",
       "typeId": 2,
-      "price": "119.99",
+      "price": "120.99",
       "id": 38
     },
     {
@@ -657,6 +657,12 @@
       "gearId": 4,
       "edit": "Love the 3 pickups and b-bender on this beast!",
       "id": 7
+    },
+    {
+      "userId": 2,
+      "gearId": 19,
+      "edit": "price is wrong!",
+      "id": 8
     }
   ]
 }
